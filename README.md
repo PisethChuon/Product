@@ -1,2 +1,2 @@
 # Product
-Final Exam in Year II.
+Final Exam in Year II Semester I
